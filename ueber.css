@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+
+p {
+    color: darkcyan;
+    text-align: center;
+}
+
+a {
+    color: darkcyan;
+    text-align: center;
+}
+
+a:hover {
+    color: darkmagenta;
+}
